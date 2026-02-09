@@ -25,3 +25,12 @@ Sean Visal
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
 
+Kong Chanlina
+Device name	DESKTOP-JVNSSCS
+Processor	Intel(R) Core(TM) i3-N305 (1.80 GHz)
+Installed RAM	8.00 GB (7.63 GB usable)
+Device ID	69FAB499-7B18-4646-B364-3A4DD53ED05A
+Product ID	00356-24744-69407-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
