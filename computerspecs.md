@@ -29,6 +29,15 @@ Sean Visal
 - Samsung Galaxy A35 5G
 - Java 4/10
 
+Kong Chanlina
+- Device name	DESKTOP-JVNSSCS
+- Processor	Intel(R) Core(TM) i3-N305 (1.80 GHz)
+- Installed RAM	8.00 GB (7.63 GB usable)
+- Device ID	69FAB499-7B18-4646-B364-3A4DD53ED05A
+- Product ID 00356-24744-69407-AAOEM
+- Oppo A5s
+- Used Java (1 Little Project)
+
 Chhorn Seyha
 
 - Device name	DESKTOP-DBU3GSG
