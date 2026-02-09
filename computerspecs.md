@@ -6,6 +6,8 @@ Max Maynor
 - Product ID	00342-22103-99475-AAOEM
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	Pen and touch support with 10 touch points
+- iPhone 14 Pro
+- Used Both Java and Swift 5/10
 
 Mengchou Chey 
 - Device name	Chey-Mengchou
