@@ -47,9 +47,7 @@ Lin Sophy
 - Product ID	00342-22181-09447-AAOEM
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
-<<<<<<< Updated upstream
 - OnePlus 8T
-=======
 
 Minan Lynna 
 - Device name	Sun
@@ -61,9 +59,3 @@ Minan Lynna
 - Pen and touch	No pen or touch input is available for this display
 - Oppo A53 
 - I have learn Basic Java for 1 semester and OPP for 1 semester 
-
-
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
