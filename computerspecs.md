@@ -36,3 +36,12 @@ Product ID	00331-10000-00001-AA333
 System type	64-bit operating system, x64-based processor
 Pen and touch	No pen or touch input is available for this display
 
+Lin Sophy
+- Device name	LAPTOP-CSA8FP1N
+- Processor	13th Gen Intel(R) Core(TM) i7-13620H (2.40 GHz)
+- Installed RAM	16.0 GB (15.6 GB usable)
+- Device ID	2B3F9272-834F-41D4-82C0-2BC3045EF8A4
+- Product ID	00342-22181-09447-AAOEM
+- System type	64-bit operating system, x64-based processor
+- Pen and touch	No pen or touch input is available for this display
+
