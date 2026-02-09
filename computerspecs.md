@@ -46,3 +46,4 @@ Lin Sophy
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
 - OnePlus 8T
+- used Java 5/10
