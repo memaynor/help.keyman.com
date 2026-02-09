@@ -6,6 +6,8 @@ Max Maynor
 - Product ID	00342-22103-99475-AAOEM
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	Pen and touch support with 10 touch points
+- iPhone 14 Pro
+- Used Both Java and Swift 5/10
 
 Mengchou Chey 
 - Device name	Chey-Mengchou
@@ -15,6 +17,8 @@ Mengchou Chey
 - Product ID	00326-10000-00000-AA204
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	Pen and touch support with 20 touch points
+- Samsung S22
+- 1/10 in Java and 0/10 in Swift 
 
 Sean Visal
 - Device name	MSI
@@ -25,7 +29,16 @@ Sean Visal
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
 - Samsung Galaxy A35 5G
+- Java 4/10
 
+Kong Chanlina
+- Device name	DESKTOP-JVNSSCS
+- Processor	Intel(R) Core(TM) i3-N305 (1.80 GHz)
+- Installed RAM	8.00 GB (7.63 GB usable)
+- Device ID	69FAB499-7B18-4646-B364-3A4DD53ED05A
+- Product ID 00356-24744-69407-AAOEM
+- Oppo A5s
+- Used Java (1 Little Project)
 
 Chhorn Seyha
 
@@ -36,6 +49,8 @@ Chhorn Seyha
 - Product ID	00331-10000-00001-AA333
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
+- Iphone 11
+- Java 7/10
 
 Lin Sophy
 - Device name	LAPTOP-CSA8FP1N
@@ -46,4 +61,3 @@ Lin Sophy
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
 - OnePlus 8T
-- used Java 5/10
