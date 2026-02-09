@@ -16,3 +16,12 @@ Mengchou Chey
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	Pen and touch support with 20 touch points
 
+Sean Visal
+- Device name	MSI
+- Processor	12th Gen Intel(R) Core(TM) i5-12450H (2.00 GHz)
+- Installed RAM	16.0 GB (15.7 GB usable)
+- Device ID	6FB93568-C37B-418B-BBCD-A0F14AA3E16A
+- Product ID	00331-10000-00001-AA010
+- System type	64-bit operating system, x64-based processor
+- Pen and touch	No pen or touch input is available for this display
+
