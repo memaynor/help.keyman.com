@@ -63,4 +63,7 @@ Minan Lynna
 - I have learn Basic Java for 1 semester and OPP for 1 semester 
 
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
