@@ -46,6 +46,8 @@ Chhorn Seyha
 - Product ID	00331-10000-00001-AA333
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
+- Iphone 11
+- Java 7/10
 
 Lin Sophy
 - Device name	LAPTOP-CSA8FP1N
