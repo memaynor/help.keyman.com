@@ -26,6 +26,7 @@ Sean Visal
 - Product ID	00331-10000-00001-AA010
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
+- Samsung Galaxy A35 5G
 
 
 Chhorn Seyha
@@ -46,4 +47,4 @@ Lin Sophy
 - Product ID	00342-22181-09447-AAOEM
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
-
+- OnePlus 8T
