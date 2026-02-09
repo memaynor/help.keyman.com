@@ -6,6 +6,8 @@ Max Maynor
 - Product ID	00342-22103-99475-AAOEM
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	Pen and touch support with 10 touch points
+- iPhone 14 Pro
+- Used Both Java and Swift 5/10
 
 Mengchou Chey 
 - Device name	Chey-Mengchou
@@ -26,6 +28,7 @@ Sean Visal
 - Product ID	00331-10000-00001-AA010
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
+- Samsung Galaxy A35 5G
 
 
 Chhorn Seyha
@@ -45,4 +48,5 @@ Lin Sophy
 - Device ID	2B3F9272-834F-41D4-82C0-2BC3045EF8A4
 - Product ID	00342-22181-09447-AAOEM
 - System type	64-bit operating system, x64-based processor
-- Pen and touch	No pen or touch input is available for this disp
+- Pen and touch	No pen or touch input is available for this display
+
