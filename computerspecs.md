@@ -27,7 +27,7 @@ Sean Visal
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
 - Samsung Galaxy A35 5G
-
+- Java 4/10
 
 Chhorn Seyha
 
