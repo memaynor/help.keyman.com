@@ -120,6 +120,7 @@ in bash, run:
 Mengchou Chey
 Max Maynor
 Chey Mengchou
+Kong Chanlina
 
 [resources/build/help-keyman-com.sh]: https://github.com/keymanapp/keyman/blob/master/resources/build/help-keyman-com.sh
 [Git]: https://git-scm.com/downloads
