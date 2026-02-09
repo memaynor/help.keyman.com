@@ -117,6 +117,7 @@ in bash, run:
 ```sh
 ./build.sh test
 ```
+Mengchou Chey
 Max Maynor
 Chey Mengchou
 Kong Chanlina
