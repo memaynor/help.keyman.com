@@ -26,11 +26,19 @@ Sean Visal
 - Pen and touch	No pen or touch input is available for this display
 
 Kong Chanlina
-Device name	DESKTOP-JVNSSCS
-Processor	Intel(R) Core(TM) i3-N305 (1.80 GHz)
-Installed RAM	8.00 GB (7.63 GB usable)
-Device ID	69FAB499-7B18-4646-B364-3A4DD53ED05A
-Product ID	00356-24744-69407-AAOEM
+- Device name	DESKTOP-JVNSSCS
+- Processor	Intel(R) Core(TM) i3-N305 (1.80 GHz)
+- Installed RAM	8.00 GB (7.63 GB usable)
+- Device ID	69FAB499-7B18-4646-B364-3A4DD53ED05A
+- Product ID 00356-24744-69407-AAOEM
+
+Chhorn Seyha
+
+Device name	DESKTOP-DBU3GSG
+Processor	13th Gen Intel(R) Core(TM) i7-13700H (2.40 GHz)
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	3353A8E1-18A6-4FF3-AE23-86F9262267D6
+Product ID	00331-10000-00001-AA333
 System type	64-bit operating system, x64-based processor
 Pen and touch	No pen or touch input is available for this display
 
