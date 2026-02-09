@@ -25,3 +25,14 @@ Sean Visal
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
 
+
+Chhorn Seyha
+
+Device name	DESKTOP-DBU3GSG
+Processor	13th Gen Intel(R) Core(TM) i7-13700H (2.40 GHz)
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	3353A8E1-18A6-4FF3-AE23-86F9262267D6
+Product ID	00331-10000-00001-AA333
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
