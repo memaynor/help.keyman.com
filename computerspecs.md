@@ -6,3 +6,13 @@ Max Maynor
 - Product ID	00342-22103-99475-AAOEM
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	Pen and touch support with 10 touch points
+
+Mengchou Chey 
+- Device name	Chey-Mengchou
+- Processor	AMD Ryzen 9 6900HS with Radeon Graphics         (3.30 GHz)
+- Installed RAM	24.0 GB (23.2 GB usable)
+- Device ID	ABC5D7D5-4C39-4C7A-885A-A700672F37B5
+- Product ID	00326-10000-00000-AA204
+- System type	64-bit operating system, x64-based processor
+- Pen and touch	Pen and touch support with 20 touch points
+
