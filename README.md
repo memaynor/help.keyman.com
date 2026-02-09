@@ -117,6 +117,7 @@ in bash, run:
 ```sh
 ./build.sh test
 ```
+Mengchou Chey
 
 [resources/build/help-keyman-com.sh]: https://github.com/keymanapp/keyman/blob/master/resources/build/help-keyman-com.sh
 [Git]: https://git-scm.com/downloads
