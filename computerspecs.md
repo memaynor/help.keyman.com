@@ -16,13 +16,32 @@ Mengchou Chey
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	Pen and touch support with 20 touch points
 
-Minan Lynna
-- Device name	Sun
-- Processor	13th Gen Intel(R) Core(TM) i7-13620H (2.40 GHz)
+Sean Visal
+- Device name	MSI
+- Processor	12th Gen Intel(R) Core(TM) i5-12450H (2.00 GHz)
 - Installed RAM	16.0 GB (15.7 GB usable)
-- Device ID	49DF4A1C-56B2-4C53-8AA1-A8B68825736D
-- Product ID	00342-42732-75208-AAOEM
+- Device ID	6FB93568-C37B-418B-BBCD-A0F14AA3E16A
+- Product ID	00331-10000-00001-AA010
 - System type	64-bit operating system, x64-based processor
 - Pen and touch	No pen or touch input is available for this display
 
+
+Chhorn Seyha
+
+Device name	DESKTOP-DBU3GSG
+Processor	13th Gen Intel(R) Core(TM) i7-13700H (2.40 GHz)
+Installed RAM	16.0 GB (15.7 GB usable)
+Device ID	3353A8E1-18A6-4FF3-AE23-86F9262267D6
+Product ID	00331-10000-00001-AA333
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
+Lin Sophy
+- Device name	LAPTOP-CSA8FP1N
+- Processor	13th Gen Intel(R) Core(TM) i7-13620H (2.40 GHz)
+- Installed RAM	16.0 GB (15.6 GB usable)
+- Device ID	2B3F9272-834F-41D4-82C0-2BC3045EF8A4
+- Product ID	00342-22181-09447-AAOEM
+- System type	64-bit operating system, x64-based processor
+- Pen and touch	No pen or touch input is available for this display
 
